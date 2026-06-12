@@ -145,4 +145,3 @@ All rights reserved. This project is publicly available for viewing and educatio
 ## Author
 
 Developed by Yiğit Yıldız.
-```
