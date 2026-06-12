@@ -131,10 +131,12 @@ This project was developed as an educational mobile application project. The mai
 
 ## Screenshots
 
-<img width="1080" height="1920" alt="giriş" src="https://github.com/user-attachments/assets/99ad7ca4-4efa-4fd8-aead-d04aae4763ac" />
-<img width="1080" height="1920" alt="Caregiver Panel" src="https://github.com/user-attachments/assets/d583efb2-1097-423e-846c-15c7474327d3" />
-<img width="1080" height="1920" alt="Patient Screen" src="https://github.com/user-attachments/assets/33cfbc7c-a2ab-40d3-aa87-35d6ad8908a6" />
-<img width="1080" height="1920" alt="Games" src="https://github.com/user-attachments/assets/71cbb45d-6ca1-46c6-a2a6-cfcf16057b58" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99ad7ca4-4efa-4fd8-aead-d04aae4763ac" alt="Login Screen" width="220" />
+  <img src="https://github.com/user-attachments/assets/d583efb2-1097-423e-846c-15c7474327d3" alt="Caregiver Panel" width="220" />
+  <img src="https://github.com/user-attachments/assets/33cfbc7c-a2ab-40d3-aa87-35d6ad8908a6" alt="Patient Screen" width="220" />
+  <img src="https://github.com/user-attachments/assets/71cbb45d-6ca1-46c6-a2a6-cfcf16057b58" alt="Games" width="220" />
+</p>
 
 ## License
 
